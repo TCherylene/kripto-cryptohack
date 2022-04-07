@@ -1,0 +1,11 @@
+#buka web (hasil inspect): http://aes.cryptohack.org/block_cipher_starter/encrypt_flag/
+#dapet hasil:
+{"ciphertext":"4660ca7e8a1e41a12a52cd0d703b0a411966cf6fc932b735f59c078b2b42bab1"}
+
+# masukin ke DECRYPT(ciphertext) -> submit
+# hasil:
+{"plaintext":"63727970746f7b626c30636b5f633170683372355f3472335f663435375f217d"}
+
+# masukin ke hex encoder/decoder -> (enter hex here)
+#hasil: 
+FLAG: crypto{bl0ck_c1ph3r5_4r3_f457_!}
